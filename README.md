@@ -10,3 +10,15 @@ This project leverages Python with Jupyter Notebook to conduct advanced data ana
 The project focuses on analyzing the dataset to predict the accuracy of tumor occurrence. Various visualizations (PNG images) were generated as outputs, illustrating key findings and accuracy metrics from the analysis.
 
 ![image](https://github.com/user-attachments/assets/c70d900e-9dee-421a-a350-df64112422b1)
+
+
+Key Deliverables:
+
+1.Data preprocessing and feature engineering
+
+2.Exploratory Data Analysis (EDA)
+
+3.Building and evaluating a predictive model
+
+4.Visualizations showcasing accuracy and patterns in tumor detection
+
